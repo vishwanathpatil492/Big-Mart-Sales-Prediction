@@ -1,6 +1,9 @@
 # Big-Mart-Sales-Prediction
 This repository contains code and resources for a machine learning project aimed at predicting sales for Big Mart outlets. The project utilizes historical sales data and other relevant features to build a predictive model that can assist in sales forecasting.
 
+[You can reach the application here] https://bigmartsalesprediction.herokuapp.com/
+
+
 PROBLEM STATEMENT :
 
 Nowadays, shopping malls and Big Marts keep track of individual item sales data in order to forecast future client demand and adjust inventory management. In a data warehouse, these data stores hold a significant amount of consumer information and particular item details. By mining the data store from the data warehouse, more anomalies and common patterns can be discovered.
